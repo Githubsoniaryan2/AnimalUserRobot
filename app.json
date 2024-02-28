@@ -1,12 +1,12 @@
 {
-    "name": "Zaid Userbot",
+    "name": "Animal Userbot",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Userbot",
+    "repository": "https://github.com/Githubsoniaryan2/AnimalUserRobot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
+            "description": "fill with the telethon session string from @String_sesion_op_Bot",
             "required": true
         },
         "MONGO_URL": {
@@ -15,14 +15,14 @@
             "value": ""
         },
         "SUDO_USERS": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "Fill there your I'd go to RoseBot pm and type /id",
             "required": true,
-            "value": "1234567890 1234567890"
+            "value": "1777910193 6731793371"
         },
         "OWNER_ID": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "Fill there your I'd go to RoseBot pm and type /id",
             "required": true,
-            "value": "1234567890"
+            "value": "1777910193"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
