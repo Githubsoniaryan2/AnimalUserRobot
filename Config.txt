@@ -3,8 +3,8 @@ from os import getenv
 from dotenv import load_dotenv
 
 
-API_ID = int(25574934) #optional
-API_HASH = "" #optional
+API_ID = int(25667600) #optional
+API_HASH = "80dce690dfd8a96f83f20bbe23c28258" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
 OWNER_ID = int(1234567890)
