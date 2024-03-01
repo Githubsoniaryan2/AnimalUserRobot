@@ -1,6 +1,7 @@
 {
     "name": "Animal-UserRobot",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
+    "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
     "keywords": ["pyrogram", "userbot"],
     "repository": "https://github.com/Githubsoniaryan2/AnimalUserRobot",
   "stack": "container",
